@@ -1,4 +1,4 @@
-#Calendar App
+# Calendar App
 -------------
 ### a small flask calendar app for displaying events on room signage
 
@@ -6,13 +6,13 @@ This calendar app is for taking calendar events from Office 365 rooms
 and formatting them for display in a flask website such that they
 may be used as signage.
 
-##Installation
+## Installation
 --------------
-> $ git clone https://github.com/Stinkoman/CalendarApp
-> $ \#install script to be completed
-> $ flask run 
+    $ git clone https://github.com/Stinkoman/CalendarApp
+    $ \#install script to be completed
+    $ flask run 
 
-##Things to do
+## Things to do
 --------------
 
 - [ ] Create install script
