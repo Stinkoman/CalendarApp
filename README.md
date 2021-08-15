@@ -9,7 +9,7 @@ may be used as signage.
 ## Installation
 --------------
     $ git clone https://github.com/Stinkoman/CalendarApp
-    $ \#install script to be completed
+    $ #install script to be completed
     $ flask run 
 
 ## Things to do
